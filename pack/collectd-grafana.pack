@@ -1,0 +1,6 @@
+{
+    "name": "collectd-grafana",
+    "description": "Checks to manage our Grafana collectd checks",
+    "path": "collectd-grafana",
+    "macros": {}
+}
