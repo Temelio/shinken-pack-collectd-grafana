@@ -1,7 +1,7 @@
 {
     "name": "collectd-grafana",
     "types": ["pack"],
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/Temelio/shinken-pack-collectd-grafana",
     "author": "Alexandre Chaussier",
     "description": "Collectd Grafana monitoring checks, using collectd-nagios plugin",
