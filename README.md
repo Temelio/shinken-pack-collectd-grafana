@@ -27,5 +27,5 @@ This pack depends to shinken-pack-collectd-base to work
 
 ## Default values
 
-    _grafana_processes    grafana-server $(grafanaserver)$$(1:)$$(1:)$
+    _grafana_processes    grafana-server $(grafana-server)$$(1:)$$(1:)$
     _grafana_listen       Listen 3000 $(3000)$$(1:1)$$(1:1)$
